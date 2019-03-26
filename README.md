@@ -1,6 +1,6 @@
 #### Инструкция по применению
 
-Для  проверки нужны выполнить 6 простых шагов
+Для  проверки нужно выполнить несколько простых шагов
 
 1. Скопируйте ссылку на репозиторий  
 <img src="https://raw.githubusercontent.com/kolmakovruslan/android_studio_test_project/master/screenshots/0.png" width="350" />  
